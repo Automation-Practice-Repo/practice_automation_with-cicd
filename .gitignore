@@ -1,1 +1,35 @@
 .idea/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Python compiled files
+*.pyo
+*.pyd
+
+# Pytest cache
+.pytest_cache/
+
+# Playwright reports
+playwright-report/
+test-results/
+
+# Environment files
+.env
+venv/
+.venv/
+
+# Mac system files
+.DS_Store
+
+# IDE files
+.idea/
+.vscode/
+
+# Coverage reports
+htmlcov/
+.coverage
+
+# Logs
+*.log
